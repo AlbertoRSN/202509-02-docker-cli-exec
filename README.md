@@ -97,6 +97,11 @@ Abre una shell dentro del contenedor **web_server**:
 docker exec -__ web_server __
 ```
 
+Salir del shell
+```bash
+exit
+```
+
 ### 10. Crear tu primera imagen personalizada
 1. Crea un archivo llamado **Dockerfile** con este contenido:
    ```dockerfile
